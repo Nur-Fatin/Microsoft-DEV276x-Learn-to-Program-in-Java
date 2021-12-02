@@ -1,4 +1,4 @@
-# Nur-Fatin-Microsoft-DEV276x-Learn-to-Program-in-Java. Here is the Notes from the course. 
+# Nur-Fatin-Microsoft-DEV276x-Learn-to-Program-in-Java.  < The Notes >
 
 Module 1 | Java Basics
 1. Introduction
