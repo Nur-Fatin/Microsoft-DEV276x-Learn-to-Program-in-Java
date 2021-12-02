@@ -1,4 +1,4 @@
-# Nur-Fatin-Microsoft-DEV276x-Learn-to-Program-in-Java
+# Nur-Fatin-Microsoft-DEV276x-Learn-to-Program-in-Java. Here is the Notes from the course. 
 
 Module 1 | Java Basics
 1. Introduction
@@ -38,7 +38,7 @@ public class Filename {
     This comment format is to describe the whole program
  */
 ```
-			- Single line comments: 
+			// - Single line comments: 
 ```
 public class Filename { 
      public static void main(String[] args) { 
